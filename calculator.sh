@@ -1,6 +1,5 @@
 #!/bin/bash
-
-# Simple Calculator Script
+#calculator example
 
 echo "Enter first number:"
 read num1
